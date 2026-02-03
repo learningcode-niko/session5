@@ -16,6 +16,6 @@ for i in range(1,11):
     for j in range(i,11): # this can use variables
         print(f"{i} x {j} = {i*j}")
     print()
-
+# done
 
 
